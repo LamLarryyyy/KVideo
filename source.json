@@ -58,6 +58,38 @@
     "priority": 51
   },
   {
+    "id": "GAY资源",
+    "name": "GAY资源",
+    "baseUrl": "https://gayapi.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": true,
+    "priority": 57
+  },
+  {
+    "id": "fortress",
+    "name": "Fortress",
+    "baseUrl": "https://slapibf.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": true,
+    "priority": 58
+  },
+  {
+    "id": "csp_XBiubiu",
+    "name": "XBiubiu",
+    "baseUrl": "csp_XBiubiu",
+    "group": "premium",
+    "enabled": true,
+    "priority": 59
+  },
+  {
+    "id": "https://slapibf.com/api.php/provide/vod/",
+    "name": "Slapibf",
+    "baseUrl": "https://slapibf.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": true,
+    "priority": 60
+  },
+  {
     "id": "gayzy",
     "name": "GAY專站",
     "baseUrl": "https://gayzy.tv/api.php/provide/vod/",
